@@ -65,19 +65,14 @@ similar to a fixed deposit, where you deposit money for a fixed period of time.
 Through the campaign, the bank had collected data about the prospects' demographics, other financial products they have purchased in the
 past (loans, deposits, etc.), the number of times they were called, etc. They also recorded the `response data`, i.e., whether the person
 had subscribed to the term deposit product, which is the `target variable`. 
-The bank's marketing team wants to launch yet another telemarketing campaign for the same product. They want the answers of the following
-questions using the past data:
-* Which prospects are more likely to buy the product (i.e., to respond )?
-* Which attributes determine the propensity to buy a term deposit?  
-* Once you predict the likelihood of response, how many prospects should you target for telemarketing?
-* By how much can you reduce the marketing cost using the model, and how many prospects will you acquire?
+The bank's marketing team wants to launch yet another telemarketing campaign for the same product. 
 
 #### Data understanding - EDA:
 Understood the data using univariate and multivariate analysis.Identified relevant predictor variables for a response using EDA.
 #### Feature Selection:
 Used Pricipal Component Analysis algorithm for feature selection.
 #### Model Building:
-In the this process built `Logistic Regresssion` model.
+In the this process built `Logistic Regression` model.
 #### Campaign optimisation:
 Sorted the prospects in order of decreasing probability of response predicted by the Logistic Regression and target the top 30%.
 #### Assessing the financial benefits of the project:
