@@ -1,5 +1,5 @@
 # Machine Learning 
-# Project: Acquisition Analytics Bank Marketing
+# Project: Bank Marketing Analysis
 ## Installation
 ### Install the requirements 
 This project requires Python 3 and the following Python libraries installed:
@@ -69,8 +69,8 @@ The bank's marketing team wants to launch yet another telemarketing campaign for
 
 #### Data understanding - EDA:
 Understood the data using univariate and multivariate analysis.Identified relevant predictor variables for a response using EDA.
-#### Feature Selection:
-Used Pricipal Component Analysis algorithm for feature selection.
+#### Feature Extraction:
+Used Pricipal Component Analysis algorithm for feature extraction.
 #### Model Building:
 In the this process built `Logistic Regression` model.
 #### Campaign optimisation:
